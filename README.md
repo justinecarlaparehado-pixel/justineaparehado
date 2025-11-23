@@ -1,7 +1,7 @@
 # Hi — I’m Justine Carl A. Aparehado 👋
 
 ## Education
-- B.S. in Information Technology — New Era Univeristy 
+- B.S. in Information Technology — New Era University 
 
 ## Certifications
 - SQL and Relational Databases 101 — CognitiveClass.ai — [Certificate Link](PUT_YOUR_CERT_LINK_HERE)
