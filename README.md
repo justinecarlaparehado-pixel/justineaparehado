@@ -1,4 +1,4 @@
-# Hi — I’m <Justine Carl A. Aparehado> 👋
+# Hi — I’m Justine Carl A. Aparehado> 👋
 
 ## Education
 - B.S. in Information Technology — <New Era Univeristy> 
