@@ -5,11 +5,6 @@
 <br/>
 
 <img src="https://img.shields.io/badge/Location-Philippines-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Focus-Web%20%7C%20Database%20%7C%20-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-Web%20%7C%20Database-purple?style=flat-square"/>
 
 </div>
-
-
-
-
-
