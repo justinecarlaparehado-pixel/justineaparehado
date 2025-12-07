@@ -17,7 +17,7 @@
 Name: Justine Carl A. Aparehado
 Degree: BS Information Technology
 School: New Era University
-Focus: Web Development, Databases, Cloud Computing
+Focus: Web Development, Databases
 ```
 
 ---
@@ -65,34 +65,6 @@ Focus: Web Development, Databases, Cloud Computing
 
 </div>
 
----
 
-## 💼 Featured Project (Sample)
-
-| Project Name      | Description                    | Tech     |
-| ----------------- | ------------------------------ | -------- |
-| Student DB System | Simple student database system | SQL, DB2 |
-
-🚧 *More projects coming soon...*
-
----
-
-## 🌐 Portfolio
-
-🔗 **Coming Soon**
-
----
-
-## 📫 Contact Me
-
-* 💼 GitHub: [https://github.com/justinecarlaparehado21-create](https://github.com/justinecarlaparehado21-create)
-* 📧 Email: *(Optional)*
-
----
-
-<div align="center">
-
-⭐ *Always learning. Always improving.* ⭐
-🔥 *Future Cloud & Database Engineer* 🔥
 
 </div>
